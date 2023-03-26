@@ -207,7 +207,7 @@ public class FlightFrame extends JFrame {
 		fromComboBox = new JComboBox(fromCityBoxModel);
 		fromComboBox.setBounds(95, 165, 144, 29);
 		contentPane.add(fromComboBox);
-
+        // lalala
 		// arrival city drop down box
 		toComboBox = new JComboBox(toCityBoxModel);
 		toComboBox.setBounds(500, 165, 133, 29);
